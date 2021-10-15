@@ -75,7 +75,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * [Original Repo](https://github.com/Mahesh0253/Media-Search-bot)
 * [subinps](https://github.com/subinps/Media-Search-bot)
 * [Editing Muhammed Rk](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
-* [Mo Tech YT](https://t.me/Mo_Tech_Group)
+* [Mo Tech YT](https://t.me/Hiphop_Aadi)
 * [Lucifer Morningstar](@Lucifer_Devil_AD)
 
 ## License
